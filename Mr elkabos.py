@@ -278,8 +278,8 @@ def run_banner():
     stderr.writelines(f"""{Wh}
          .-.
        .'   `.          {Wh}--------------------------------
-       :g g   :         {Wh}| {Gr}GHOST - TRACKER - IP ADDRESS {Wh}|
-       : o    `.        {Wh}|       {Gr}  @Mr_Dark_elkabos      {Wh}|
+       :g g   :         {Wh} {Gr}Mr Dark elkabos -YEMEN-   {Wh}
+       : o    `.        {Wh}       {Gr}  @Mr_Dark_elkabos      {Wh}
       :         ``.     {Wh}--------------------------------
      :             `.
     :  :         .   `.
